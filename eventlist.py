@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 
 #BD TIMER FOR WHEN BOT BREAK WEB SCRAPE
 bd_start = datetime.fromisoformat('2023-09-20 01:24:55')
-npbd_start = datetime.fromisoformat('2024-01-06 22:42:29')
+npbd_start = datetime.fromisoformat('2024-01-13 23:35:36')
 
 #HORA QUE COMEÇA
 event_exp_start = [
